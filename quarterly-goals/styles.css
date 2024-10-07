@@ -1,0 +1,132 @@
+#quarterly-goals-text {
+    width: 293px;
+    height: 30px;
+    top: 723px;
+    left: 42.53px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Oxygen;
+    font-size: 27.5px;
+    font-weight: 400;
+    line-height: 34.72px;
+    text-align: left;
+    color: #4B5853;
+
+}
+
+#fall-year-text {
+    width: 109.86px;
+    height: 24.99px;
+    top: 764.72px;
+    left: 30px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Oxygen;
+    font-size: 22.5px;
+    font-weight: 700;
+    line-height: 28.41px;
+    text-align: left;
+    color: #4B5853;
+
+}
+
+#first-text{
+    width: 293px;
+    height: 23px;
+    top: 849px;
+    left: 39px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Oxygen;
+    font-size: 16.25px;
+    font-weight: 400;
+    line-height: 20.52px;
+    text-align: left;
+    color: #5A5A5A;
+
+}
+
+#first-hashtag{
+    width: 256px;
+    height: 18px;
+    top: 872px;
+    left: 42.53px;
+    font-family: Oxygen;
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 18.94px;
+    text-align: left;
+    color: #FFB987;
+
+}
+
+#first-date-month {
+    width: 38px;
+    height: 18px;
+    top: 893.25px;
+    left: 37.53px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Oxygen;
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 18.94px;
+    text-align: left;
+    color: #5A5A5A;
+  
+}
+
+hr {
+    opacity: 0px;
+    margin-left:0;
+    width: 334.57px;
+    height: 0px;
+    top: 927.92px;
+    left: 38.74px;
+    gap: 0px;
+    border: 1.25px 0px 0px 0px;
+    border: 1.25px solid #00000026
+}
+
+#second-hashtag {
+    width: 256px;
+    height: 18px;
+    top: 872px;
+    left: 42.53px;
+    font-family: Oxygen;
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 18.94px;
+    text-align: left;
+    color: #2DBDB1;
+
+}
+
+#third-hashtag {
+    width: 256px;
+    height: 18px;
+    top: 872px;
+    left: 42.53px;
+    font-family: Oxygen;
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 18.94px;
+    text-align: left;
+    color: #EE8B72;
+}
+
+#add-goal{
+    width: 331.49px;
+    height: 31.68px;
+    top: 1119.11px;
+    left: 41.24px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Oxygen;
+    font-size: 17.5px;
+    font-weight: 400;
+    line-height: 22.1px;
+    text-align: left;
+    color: #5A5A5A;
+
+}

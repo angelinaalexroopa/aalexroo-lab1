@@ -1,0 +1,25 @@
+#time-text {
+    font-family:'Oxygen', serif;
+    line-height: 71.03px;
+    color: #2DBDB1;
+    font-size:56.25px; 
+    margin:0;  
+}
+
+#am-text{
+    font-family:'Oxygen', serif;
+    line-height: 18.94px;
+    color: #2DBDB1;
+    font-size:15px;   
+    margin:0;
+
+}
+
+#date-text{
+    font-family:'Oxygen';
+    line-height: 23.68px;
+    color: #4B5853;
+    font-size:18.75px; 
+    margin:0;  
+   
+}
